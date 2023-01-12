@@ -1,0 +1,28 @@
+{
+  "name": "asm-bmc-topology-mediator",
+  "version": "1.0.0",
+  "description": "BMC topology mediator for ASM (Agile Service Manager) NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon ap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panexxo/ASM-BMC-Topology-Mediator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panexxo/ASM-BMC-Topology-Mediator/issues"
+  },
+  "homepage": "https://github.com/panexxo/ASM-BMC-Topology-Mediator#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "type": "module"
+}
